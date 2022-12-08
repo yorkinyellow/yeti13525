@@ -1,0 +1,14 @@
+{
+  "name": "yeti13525",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "melotto Pantip เว็บไซต์ที่มีความน่าเชื่อถือ [Play168] ⭐ melotto แทงหวยเว็บหลัก เว็บหวยออนไลน์ที่ดีที่สุด 2023",
+  "keywords": [
+    "melotto Pantip เว็บไซต์ที่มีความน่าเชื่อถือ [Play168] ⭐ melotto แทงหวยเว็บหลัก เว็บหวยออนไลน์ที่ดีที่สุด 2023"
+  ],
+  "repository": "https://github.com/yorkinyellow/yeti13525",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
